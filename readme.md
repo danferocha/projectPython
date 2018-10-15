@@ -6,3 +6,9 @@ O projeto será compostos por diversos pequenos programas, que poderão ou não 
 O programa criado para sortear números dos jogos da Lotofácil - Loteria Federal,apresenta algumas falhas, ele a principio deverá ser utilizados para criar jogos e analisar junto com outras ferramentas como programas em liguagem R para identificar a possibilidade desses números sorteados sairem.
 
 projeto em sua versão inicial.
+
+
+
+
+Criação de sistema de análise e calculo de jogos.
+
